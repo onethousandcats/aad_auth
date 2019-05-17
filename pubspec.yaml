@@ -1,6 +1,6 @@
 name: aad_auth
 description: Integrating SSO for Azure Active Directory
-version: 1.0.1
+version: 0.0.3
 author: aivlys senga-thide <aivlys.senga.thide@gmail.com>
 homepage: https://www.saigonbookclub.com
 
@@ -8,6 +8,8 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+  uuid: ^2.0.1
+  url_launcher: ^5.0.2
   flutter:
     sdk: flutter
 

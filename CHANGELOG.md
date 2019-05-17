@@ -1,3 +1,11 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1]
 
-* TODO: Describe initial release.
+* Initial release just to test the package
+
+## [0.0.2]
+
+* Added basic URL building and request
+
+## [0.0.3]
+
+* Fixed variables to create GUID v4 uuids
